@@ -11,8 +11,13 @@
   "author": "Siam T. Bhuiyan",
   "license": "ISC",
   "dependencies": {
+    "@discordjs/opus": "^0.7.0",
+    "@discordjs/voice": "^0.8.0",
     "discord.js": "^13.6.0",
     "dotenv": "^16.0.0",
-    "nodemon": "^2.0.15"
+    "ffmpeg": "^0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "nodemon": "^2.0.15",
+    "ytdl-core": "^4.10.1"
   }
 }
